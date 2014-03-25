@@ -17,3 +17,18 @@ Fixes this problem:
 {/exp:ee_addon:tag}
 
 ```
+
+The above will output:
+
+```
+Oh no 1 is always 1 due to EE's template parser! .. 1 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 2 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 3 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 4 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 5 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 6 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 7 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 8 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 9 to the rescue :-)
+Oh no 1 is always 1 due to EE's template parser! .. 10 to the rescue :-)
+```
